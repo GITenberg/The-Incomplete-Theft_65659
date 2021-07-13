@@ -1,0 +1,37 @@
+_repo: The-Incomplete-Theft_65659
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Silverberg, Robert
+    birthdate: 1935
+    gutenberg_agent_id: '28358'
+    url: http://www.gutenberg.org/2009/agents/28358
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Silverberg
+  - agent_name: Garrett, Randall
+    aliases:
+    - Garrett, Gordon Randall
+    - Garret, Randall
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia: https://en.wikipedia.org/wiki/Randall_Garrett
+description: By Garrett and Silverberg, writing under the pseudonym Ralph Burke, according
+  to the Internet Speculative Fiction Database.
+gutenberg_issued: '2021-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Spy stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Incomplete Theft
+url: http://www.gutenberg.org/ebooks/65659
